@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rohitkaushal7.github.io/lyrics/static/css/main.055146ed.chunk.css",
+    "main.js": "/rohitkaushal7.github.io/lyrics/static/js/main.6476cf2f.chunk.js",
+    "main.js.map": "/rohitkaushal7.github.io/lyrics/static/js/main.6476cf2f.chunk.js.map",
+    "runtime-main.js": "/rohitkaushal7.github.io/lyrics/static/js/runtime-main.c9bce1bd.js",
+    "runtime-main.js.map": "/rohitkaushal7.github.io/lyrics/static/js/runtime-main.c9bce1bd.js.map",
+    "static/js/2.1d14c833.chunk.js": "/rohitkaushal7.github.io/lyrics/static/js/2.1d14c833.chunk.js",
+    "static/js/2.1d14c833.chunk.js.map": "/rohitkaushal7.github.io/lyrics/static/js/2.1d14c833.chunk.js.map",
+    "index.html": "/rohitkaushal7.github.io/lyrics/index.html",
+    "precache-manifest.264a11f11031f15f197ce2f8bb964be8.js": "/rohitkaushal7.github.io/lyrics/precache-manifest.264a11f11031f15f197ce2f8bb964be8.js",
+    "service-worker.js": "/rohitkaushal7.github.io/lyrics/service-worker.js",
+    "static/css/main.055146ed.chunk.css.map": "/rohitkaushal7.github.io/lyrics/static/css/main.055146ed.chunk.css.map",
+    "static/js/2.1d14c833.chunk.js.LICENSE.txt": "/rohitkaushal7.github.io/lyrics/static/js/2.1d14c833.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9bce1bd.js",
+    "static/js/2.1d14c833.chunk.js",
+    "static/css/main.055146ed.chunk.css",
+    "static/js/main.6476cf2f.chunk.js"
+  ]
+}
