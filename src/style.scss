@@ -1,0 +1,78 @@
+::-webkit-scrollbar {
+  width: 2px;
+}
+
+body {
+  height: 100vh;
+  overflow: hidden;
+  @media (max-width: 720px) {
+    overflow: visible;
+    height: auto;
+  }
+}
+
+.main {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-family: "Product Sans";
+  height: 95vh;
+  overflow: hidden;
+
+  @media (max-width: 720px) {
+    flex-direction: column;
+  }
+  .form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 1rem;
+    overflow: hidden;
+    height: 30rem;
+    transition: all 0.3s;
+    @media (max-width: 720px) {
+      margin: 0;
+    }
+
+    label {
+      display: flex;
+      flex-direction: column;
+      font-weight: bold;
+    }
+    input {
+      width: 20rem;
+      padding: 1rem;
+      border: none;
+      outline: none;
+      font-size: 1.2rem;
+      background: #eee;
+      @media (max-width: 720px) {
+        width: 100vw;
+      }
+    }
+
+    button {
+      display: inline-block;
+      padding: 1rem;
+      margin: 1rem 0;
+      border: none;
+      outline: none;
+      color: white;
+      background: rgb(0, 110, 255);
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+  }
+  .lyrics {
+    padding: 1rem;
+    color: #222;
+    font-family: "Product Sans";
+    height: 100vh;
+    overflow: scroll;
+    width: 100%;
+    @media (max-width: 720px) {
+      padding: 0.5rem;
+    }
+  }
+}
